@@ -1,0 +1,17 @@
+.ak-alert {
+    color: #fff;
+    right: 10px;
+    bottom: 10px;
+    background: #000;
+    position: absolute;
+}
+
+.alert {
+    height: 25px;
+    width: 230px;
+    padding: 10px 10px 0;
+}
+
+.alert.alert-success {
+    border-bottom: solid 5px green;
+}

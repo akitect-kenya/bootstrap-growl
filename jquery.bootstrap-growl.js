@@ -3,6 +3,8 @@
 
   $ = jQuery;
 
+  // Fetch options
+  
   $.bootstrapGrowl = function(message, options) {
     var $alert, css, offsetAmount;
     options = $.extend({}, $.bootstrapGrowl.default_options, options);

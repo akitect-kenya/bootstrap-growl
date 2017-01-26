@@ -4,12 +4,17 @@
   "version": "0.0.1",
   "license": "MIT",
   "homepage": "http://ifightcrime.github.io/bootstrap-growl",
-  "author": { "name": "Nick Larson" },
+  "author": {
+    "name": "Nick Larson"
+  },
   "main": "jquery.bootstrap-growl.js",
   "repositories": [
     {
       "type": "git",
       "url": "http://github.com/ifightcrime/bootstrap-growl"
     }
-  ]
+  ],
+  "devDependencies": {
+    "babel": "^6.5.2"
+  }
 }
